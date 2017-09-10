@@ -1,0 +1,1 @@
+raw_input is a form of input that takes the argument in the form of a string whereas the input function takes the value depending upon your input. Say, a=input(5) returns a as an integer with value 5 whereas a=raw_input(5) returns a as a string of "5"
